@@ -1,3 +1,3 @@
 # odin-recipes
 
-live page at https://lanayoobee.github.io/odin-recipes/
+live page at https://lana-l.github.io/odin-recipes/
